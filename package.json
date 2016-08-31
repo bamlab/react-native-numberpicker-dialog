@@ -1,0 +1,19 @@
+{
+  "name": "react-native-numberpicker-dialog",
+  "version": "0.0.1",
+  "description": "Show a dialog on Android, allowing to choose an option using NumberPicker",
+  "main": "index.android.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bamlab/react-native-numberpicker-dialog.git"
+  },
+  "author": "Florian Rival <florianr@bamlab.fr> (http://bamlab.fr)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bamlab/react-native-numberpicker-dialog/issues"
+  },
+  "homepage": "https://github.com/bamlab/react-native-numberpicker-dialog#readme"
+}
